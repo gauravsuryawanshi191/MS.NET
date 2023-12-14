@@ -1,0 +1,15 @@
+F:\.Net\.Net\Day2\App1\bin\Debug\net7.0\App1.exe
+F:\.Net\.Net\Day2\App1\bin\Debug\net7.0\App1.deps.json
+F:\.Net\.Net\Day2\App1\bin\Debug\net7.0\App1.runtimeconfig.json
+F:\.Net\.Net\Day2\App1\bin\Debug\net7.0\App1.dll
+F:\.Net\.Net\Day2\App1\bin\Debug\net7.0\App1.pdb
+F:\.Net\.Net\Day2\App1\obj\Debug\net7.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\.Net\Day2\App1\obj\Debug\net7.0\App1.AssemblyInfoInputs.cache
+F:\.Net\.Net\Day2\App1\obj\Debug\net7.0\App1.AssemblyInfo.cs
+F:\.Net\.Net\Day2\App1\obj\Debug\net7.0\App1.csproj.CoreCompileInputs.cache
+F:\.Net\.Net\Day2\App1\obj\Debug\net7.0\App1.sourcelink.json
+F:\.Net\.Net\Day2\App1\obj\Debug\net7.0\App1.dll
+F:\.Net\.Net\Day2\App1\obj\Debug\net7.0\refint\App1.dll
+F:\.Net\.Net\Day2\App1\obj\Debug\net7.0\App1.pdb
+F:\.Net\.Net\Day2\App1\obj\Debug\net7.0\App1.genruntimeconfig.cache
+F:\.Net\.Net\Day2\App1\obj\Debug\net7.0\ref\App1.dll

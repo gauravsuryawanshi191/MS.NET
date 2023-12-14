@@ -1,0 +1,15 @@
+E:\Batch2\MS.NET\Git\Day4\App1\bin\Debug\net7.0\App1.exe
+E:\Batch2\MS.NET\Git\Day4\App1\bin\Debug\net7.0\App1.deps.json
+E:\Batch2\MS.NET\Git\Day4\App1\bin\Debug\net7.0\App1.runtimeconfig.json
+E:\Batch2\MS.NET\Git\Day4\App1\bin\Debug\net7.0\App1.dll
+E:\Batch2\MS.NET\Git\Day4\App1\bin\Debug\net7.0\App1.pdb
+E:\Batch2\MS.NET\Git\Day4\App1\obj\Debug\net7.0\App1.csproj.AssemblyReference.cache
+E:\Batch2\MS.NET\Git\Day4\App1\obj\Debug\net7.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Batch2\MS.NET\Git\Day4\App1\obj\Debug\net7.0\App1.AssemblyInfoInputs.cache
+E:\Batch2\MS.NET\Git\Day4\App1\obj\Debug\net7.0\App1.AssemblyInfo.cs
+E:\Batch2\MS.NET\Git\Day4\App1\obj\Debug\net7.0\App1.csproj.CoreCompileInputs.cache
+E:\Batch2\MS.NET\Git\Day4\App1\obj\Debug\net7.0\App1.dll
+E:\Batch2\MS.NET\Git\Day4\App1\obj\Debug\net7.0\refint\App1.dll
+E:\Batch2\MS.NET\Git\Day4\App1\obj\Debug\net7.0\App1.pdb
+E:\Batch2\MS.NET\Git\Day4\App1\obj\Debug\net7.0\App1.genruntimeconfig.cache
+E:\Batch2\MS.NET\Git\Day4\App1\obj\Debug\net7.0\ref\App1.dll
