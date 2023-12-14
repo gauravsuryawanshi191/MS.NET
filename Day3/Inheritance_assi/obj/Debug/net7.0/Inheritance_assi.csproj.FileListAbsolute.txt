@@ -1,0 +1,15 @@
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\bin\Debug\net7.0\Inheritance_assi.exe
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\bin\Debug\net7.0\Inheritance_assi.deps.json
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\bin\Debug\net7.0\Inheritance_assi.runtimeconfig.json
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\bin\Debug\net7.0\Inheritance_assi.dll
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\bin\Debug\net7.0\Inheritance_assi.pdb
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\obj\Debug\net7.0\Inheritance_assi.csproj.AssemblyReference.cache
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\obj\Debug\net7.0\Inheritance_assi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\obj\Debug\net7.0\Inheritance_assi.AssemblyInfoInputs.cache
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\obj\Debug\net7.0\Inheritance_assi.AssemblyInfo.cs
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\obj\Debug\net7.0\Inheritance_assi.csproj.CoreCompileInputs.cache
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\obj\Debug\net7.0\Inheritance_assi.dll
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\obj\Debug\net7.0\refint\Inheritance_assi.dll
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\obj\Debug\net7.0\Inheritance_assi.pdb
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\obj\Debug\net7.0\Inheritance_assi.genruntimeconfig.cache
+E:\Batch2\MS.NET\Git\Day3\Inheritance_assi\obj\Debug\net7.0\ref\Inheritance_assi.dll

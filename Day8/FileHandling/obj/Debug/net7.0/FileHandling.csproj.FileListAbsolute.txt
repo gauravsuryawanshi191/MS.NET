@@ -1,0 +1,15 @@
+E:\Batch2\MS.NET\Day8\FileHandling\bin\Debug\net7.0\FileHandling.exe
+E:\Batch2\MS.NET\Day8\FileHandling\bin\Debug\net7.0\FileHandling.deps.json
+E:\Batch2\MS.NET\Day8\FileHandling\bin\Debug\net7.0\FileHandling.runtimeconfig.json
+E:\Batch2\MS.NET\Day8\FileHandling\bin\Debug\net7.0\FileHandling.dll
+E:\Batch2\MS.NET\Day8\FileHandling\bin\Debug\net7.0\FileHandling.pdb
+E:\Batch2\MS.NET\Day8\FileHandling\obj\Debug\net7.0\FileHandling.csproj.AssemblyReference.cache
+E:\Batch2\MS.NET\Day8\FileHandling\obj\Debug\net7.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Batch2\MS.NET\Day8\FileHandling\obj\Debug\net7.0\FileHandling.AssemblyInfoInputs.cache
+E:\Batch2\MS.NET\Day8\FileHandling\obj\Debug\net7.0\FileHandling.AssemblyInfo.cs
+E:\Batch2\MS.NET\Day8\FileHandling\obj\Debug\net7.0\FileHandling.csproj.CoreCompileInputs.cache
+E:\Batch2\MS.NET\Day8\FileHandling\obj\Debug\net7.0\FileHandling.dll
+E:\Batch2\MS.NET\Day8\FileHandling\obj\Debug\net7.0\refint\FileHandling.dll
+E:\Batch2\MS.NET\Day8\FileHandling\obj\Debug\net7.0\FileHandling.pdb
+E:\Batch2\MS.NET\Day8\FileHandling\obj\Debug\net7.0\FileHandling.genruntimeconfig.cache
+E:\Batch2\MS.NET\Day8\FileHandling\obj\Debug\net7.0\ref\FileHandling.dll

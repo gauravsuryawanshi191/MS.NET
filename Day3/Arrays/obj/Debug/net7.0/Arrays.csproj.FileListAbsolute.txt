@@ -1,0 +1,15 @@
+E:\Batch2\MS.NET\Git\Day3\Arrays\bin\Debug\net7.0\Arrays.exe
+E:\Batch2\MS.NET\Git\Day3\Arrays\bin\Debug\net7.0\Arrays.deps.json
+E:\Batch2\MS.NET\Git\Day3\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+E:\Batch2\MS.NET\Git\Day3\Arrays\bin\Debug\net7.0\Arrays.dll
+E:\Batch2\MS.NET\Git\Day3\Arrays\bin\Debug\net7.0\Arrays.pdb
+E:\Batch2\MS.NET\Git\Day3\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+E:\Batch2\MS.NET\Git\Day3\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Batch2\MS.NET\Git\Day3\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+E:\Batch2\MS.NET\Git\Day3\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+E:\Batch2\MS.NET\Git\Day3\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+E:\Batch2\MS.NET\Git\Day3\Arrays\obj\Debug\net7.0\Arrays.dll
+E:\Batch2\MS.NET\Git\Day3\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+E:\Batch2\MS.NET\Git\Day3\Arrays\obj\Debug\net7.0\Arrays.pdb
+E:\Batch2\MS.NET\Git\Day3\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+E:\Batch2\MS.NET\Git\Day3\Arrays\obj\Debug\net7.0\ref\Arrays.dll

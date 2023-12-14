@@ -1,0 +1,15 @@
+F:\.Net\.Net\Day2\Contructors\bin\Debug\net7.0\Contructors.exe
+F:\.Net\.Net\Day2\Contructors\bin\Debug\net7.0\Contructors.deps.json
+F:\.Net\.Net\Day2\Contructors\bin\Debug\net7.0\Contructors.runtimeconfig.json
+F:\.Net\.Net\Day2\Contructors\bin\Debug\net7.0\Contructors.dll
+F:\.Net\.Net\Day2\Contructors\bin\Debug\net7.0\Contructors.pdb
+F:\.Net\.Net\Day2\Contructors\obj\Debug\net7.0\Contructors.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\.Net\Day2\Contructors\obj\Debug\net7.0\Contructors.AssemblyInfoInputs.cache
+F:\.Net\.Net\Day2\Contructors\obj\Debug\net7.0\Contructors.AssemblyInfo.cs
+F:\.Net\.Net\Day2\Contructors\obj\Debug\net7.0\Contructors.csproj.CoreCompileInputs.cache
+F:\.Net\.Net\Day2\Contructors\obj\Debug\net7.0\Contructors.sourcelink.json
+F:\.Net\.Net\Day2\Contructors\obj\Debug\net7.0\Contructors.dll
+F:\.Net\.Net\Day2\Contructors\obj\Debug\net7.0\refint\Contructors.dll
+F:\.Net\.Net\Day2\Contructors\obj\Debug\net7.0\Contructors.pdb
+F:\.Net\.Net\Day2\Contructors\obj\Debug\net7.0\Contructors.genruntimeconfig.cache
+F:\.Net\.Net\Day2\Contructors\obj\Debug\net7.0\ref\Contructors.dll
