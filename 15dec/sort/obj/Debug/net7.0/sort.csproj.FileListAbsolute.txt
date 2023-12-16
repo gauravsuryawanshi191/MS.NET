@@ -1,0 +1,15 @@
+E:\Batch2\MS.NET\15dec\sort\bin\Debug\net7.0\sort.exe
+E:\Batch2\MS.NET\15dec\sort\bin\Debug\net7.0\sort.deps.json
+E:\Batch2\MS.NET\15dec\sort\bin\Debug\net7.0\sort.runtimeconfig.json
+E:\Batch2\MS.NET\15dec\sort\bin\Debug\net7.0\sort.dll
+E:\Batch2\MS.NET\15dec\sort\bin\Debug\net7.0\sort.pdb
+E:\Batch2\MS.NET\15dec\sort\obj\Debug\net7.0\sort.csproj.AssemblyReference.cache
+E:\Batch2\MS.NET\15dec\sort\obj\Debug\net7.0\sort.GeneratedMSBuildEditorConfig.editorconfig
+E:\Batch2\MS.NET\15dec\sort\obj\Debug\net7.0\sort.AssemblyInfoInputs.cache
+E:\Batch2\MS.NET\15dec\sort\obj\Debug\net7.0\sort.AssemblyInfo.cs
+E:\Batch2\MS.NET\15dec\sort\obj\Debug\net7.0\sort.csproj.CoreCompileInputs.cache
+E:\Batch2\MS.NET\15dec\sort\obj\Debug\net7.0\sort.dll
+E:\Batch2\MS.NET\15dec\sort\obj\Debug\net7.0\refint\sort.dll
+E:\Batch2\MS.NET\15dec\sort\obj\Debug\net7.0\sort.pdb
+E:\Batch2\MS.NET\15dec\sort\obj\Debug\net7.0\sort.genruntimeconfig.cache
+E:\Batch2\MS.NET\15dec\sort\obj\Debug\net7.0\ref\sort.dll
