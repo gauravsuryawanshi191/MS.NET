@@ -6,7 +6,7 @@ namespace DBConnection
     {
         static void Main(string[] args)
         {
-            //connect1();
+            connect1();
             //connect2();
             //insert1();
             Employee e0= new Employee();
@@ -27,7 +27,7 @@ namespace DBConnection
             //delete1(e2);
             //select1();
             //select2();
-            select3();
+            //select3();
         }
         static void connect1()
         {
